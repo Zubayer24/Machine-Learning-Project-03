@@ -77,5 +77,5 @@ The workflow demonstrates handling noisy and non-stationary time series data, fe
 - **Actual vs Predicted NO₂ & CO (ARIMA)**
 
 ```markdown
-![NO2 Prediction Plot](./plots/no2_prediction_plot.png)
-![CO Prediction Plot](./plots/co_prediction_plot.png)
+Predicted NO2(GT) vs Actual NO2(GT).png
+
