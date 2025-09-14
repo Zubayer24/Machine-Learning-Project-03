@@ -70,12 +70,3 @@ The workflow demonstrates handling noisy and non-stationary time series data, fe
 | CO     | ...   | ...   | ...   | ...    |
 
 ---
-
-## Visualizations
-- **Actual vs Predicted NO₂ (GRU)**
-- **Actual vs Predicted CO (GRU)**
-- **Actual vs Predicted NO₂ & CO (ARIMA)**
-
-```markdown
-![CO Prediction Plot](plots/actual vs predicted CO(GT).png)
-
